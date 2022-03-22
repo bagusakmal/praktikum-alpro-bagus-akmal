@@ -1,0 +1,6 @@
+
+=======Struk SPBU UAD=======
+Nama Pelanggan : a
+Total Liter 	: 28.5714
+Jenis Bensin 	: Pertalite
+Total Harga 	: 200000
